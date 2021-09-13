@@ -33,8 +33,8 @@ Eu sou um estudante, apaixonado por tecnologia e por produzir filmes!
 
 <div>
   <a href="https://github.com/Leonardoabras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardoabras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoabras&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leonardoabras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoabras&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
