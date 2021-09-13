@@ -34,8 +34,13 @@ Eu sou um estudante, apaixonado por tecnologia e por produzir filmes!
   <a href="https://github.com/Leonardoabras">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leonardoabras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoabras&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="Leo-yoda" src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif?cid=ecf05e4785j83f8egxt9d43u4omecq0o20p8rgor301kn2v4&rid=giphy.gif&ct=g">
 </div>
+  
+  ##
+  
+  <div>
+     <img align="right" alt="Leo-yoda" src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif?cid=ecf05e4785j83f8egxt9d43u4omecq0o20p8rgor301kn2v4&rid=giphy.gif&ct=g">
+  </div>
   
   ##
   
