@@ -1,18 +1,16 @@
-<p align="center"><a href="https://github.com/Leonardoabras"><img width="80%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474lx1y3yx8g5ycaymqnrq0wa73gaxk4dv4a8ftxft&rid=giphy.gif&ct=g" /></a></p>
-
 <br />
 
 ### Opa, tudo bem contigo?! 👋
 
-Eu sou um estudante, apaixonado por tecnologia e por produzir filmes!
+Seja Bem Vindo!
 
 **Sobre mim**
 
-- 💼 Estudante FullStack, trabalhando como Instrutor Audiovisual;
+- 💼 Estudante FullStack, produzindo aplicações em React/React Native e Python;
 
-- ❤️ Eu amo Inteligência Artificial e Data Science
+- ❤️ Aprofundando em computação em Nuvem e Arquitetura em Software Pela Google Architecture Code
 
-- 🤔 Sempre buscando por novas tecnologias, me recomenda uma?
+- 🤔 Busco por novas tecnologias, me recomenda uma?
 
 - ☁️ Ultima certificação em Cloud pela AWS Academy (https://www.credly.com/users/leonardo-abras-de-almeida/badges)
 
@@ -34,7 +32,6 @@ Eu sou um estudante, apaixonado por tecnologia e por produzir filmes!
   <a href="https://github.com/Leonardoabras">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leonardoabras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoabras&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="Leo-yoda" src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif?cid=ecf05e4785j83f8egxt9d43u4omecq0o20p8rgor301kn2v4&rid=giphy.gif&ct=g">
 </div>
   
 
