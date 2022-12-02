@@ -6,7 +6,7 @@ Seja Bem Vindo!
 
 **Sobre mim**
 
-- 💼 Estudante FullStack, produzindo aplicações em React/React Native e Python;
+- 💼 Estudante, produzindo aplicações em React Native;
 
 - ❤️ Aprofundando em computação em Nuvem e Arquitetura em Software Pela Google Architecture Code
 
